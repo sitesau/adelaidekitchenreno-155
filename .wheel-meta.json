@@ -1,0 +1,22 @@
+{
+  "wheel_id": 861,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-155",
+  "project": "kitchen-renovation-adelaide-beginner-guide-ae345b4bf804817938e3",
+  "parent_t1_ref": "adelaidekitchenreno-015",
+  "node_role": "buffer",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovation adelaide beginner guide",
+  "intended_url": "https://sitesau.github.io/adelaidekitchenreno-155/",
+  "tier": "T2",
+  "writeback_nonce": "d19d7d483bc6512f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovation-adelaide-015/",
+      "anchor": "this overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
